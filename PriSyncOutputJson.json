@@ -1,0 +1,223 @@
+{
+   "PricingReferenceID": "ANGLO EASTERN CRUISE MANAGEMENT INC-20240116_103525_CVHHSP",
+   "Status": "Success",
+   "ValidationErrors": [],
+   "ValidationWarnings": [
+      {}
+   ],
+   "PolicyOutput": [
+      {
+         "RiskReference": "ATN343304A24",
+         "Currency": "USD",
+         "ExpectedLoss": 2213128.3536174824,
+         "ProfitandContingencyLoad": 348442.52693539223,
+         "Brokerage": 820902.9780806359,
+         "OtherDeductions": 0,
+         "ExpenseLoading": 621930.912491543,
+         "ProfitCommission": 0,
+         "GNTechnicalPremium100Pct": 3183501.7930444176,
+         "GGTechnicalPremium100Pct": 4004404.7711250535,
+         "GNTechnicalPremiumOurShare": 159175.0896522209,
+         "GGTechnicalPremiumOurShare": 200220.23855625268,
+         "GNLossRatioTechnical": 0.695186777796988,
+         "GGLossRatioTechnical": 0.5526734883486054,
+         "PricedGNLR": 1.0147417781760377,
+         "PricedGGLR": 0.80671971364995,
+         "TechnicalAdequacy": 0.6850873717317144,
+         "BenchmarkAdequacy": 0.7188254348915352,
+         "PlanLossRatio": 0.7294222,
+         "AllocatedNetTVAR1in5": 8107987.60167959,
+         "AllocatedNetTVAR1in10": 11615349.092220023,
+         "AllocatedNetTVAR1in20": 16157148.99177265,
+         "AllocatedNetTVAR1in50": 25571981.78162658
+      },
+      {
+         "RiskReference": "ATD343305A24",
+         "Currency": "USD",
+         "ExpectedLoss": 116258.53205068572,
+         "ProfitandContingencyLoad": 34877.55961520572,
+         "Brokerage": 48434.36841272186,
+         "OtherDeductions": 0,
+         "ExpenseLoading": 36694.75169076163,
+         "ProfitCommission": 0,
+         "GNTechnicalPremium100Pct": 187830.84335665306,
+         "GGTechnicalPremium100Pct": 236265.21176937493,
+         "GNTechnicalPremiumOurShare": 9391.542167832653,
+         "GGTechnicalPremiumOurShare": 11813.260588468747,
+         "GNLossRatioTechnical": 0.6189533623609096,
+         "GGLossRatioTechnical": 0.4920679230769231,
+         "PricedGNLR": 0.6112616166470005,
+         "PricedGGLR": 0.4859529852343654,
+         "TechnicalAdequacy": 1.0125833939256665,
+         "BenchmarkAdequacy": 1.1933060740851924,
+         "PlanLossRatio": 0.7294222,
+         "AllocatedNetTVAR1in5": 581292.6602534286,
+         "AllocatedNetTVAR1in10": 1162585.3205068572,
+         "AllocatedNetTVAR1in20": 2282663.163293023,
+         "AllocatedNetTVAR1in50": 5441147.616030378
+      },
+      {
+         "RiskReference": "Combined",
+         "Currency": "USD",
+         "ExpectedLoss": 2329386.885668168,
+         "ProfitandContingencyLoad": 383320.086550598,
+         "Brokerage": 869337.3464933578,
+         "OtherDeductions": 0,
+         "ExpenseLoading": 658625.6641823046,
+         "ProfitCommission": 0,
+         "GNTechnicalPremium100Pct": 3371332.6364010707,
+         "GGTechnicalPremium100Pct": 4240669.982894428,
+         "GNTechnicalPremiumOurShare": 168566.63182005356,
+         "GGTechnicalPremiumOurShare": 212033.49914472143,
+         "GNLossRatioTechnical": 0.6909394998634161,
+         "GGLossRatioTechnical": 0.5492969023914158,
+         "PricedGNLR": 0.982378167268866,
+         "PricedGGLR": 0.7809906429787484,
+         "TechnicalAdequacy": 0.7033335256058412,
+         "BenchmarkAdequacy": 0.7425065257994127,
+         "PlanLossRatio": 0.7294222,
+         "AllocatedNetTVAR1in5": 8689280.261933018,
+         "AllocatedNetTVAR1in10": 12777934.412726881,
+         "AllocatedNetTVAR1in20": 18439812.155065674,
+         "AllocatedNetTVAR1in50": 31013129.397656955
+      }
+   ],
+   "VesselOutput": [
+      {
+         "VesselLLPNo": 203500,
+         "VesselName": "Ocean Atlantic",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0007194315625972913,
+         "ExpectedHMFreqRate": 0.09658970591098388,
+         "MeanGrossClaims": 16914.660863644567
+      },
+      {
+         "VesselLLPNo": 150502,
+         "VesselName": "Ocean Endeavour",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0007474683475371235,
+         "ExpectedHMFreqRate": 0.09342047882320376,
+         "MeanGrossClaims": 23338.67800357873
+      },
+      {
+         "VesselLLPNo": 6034,
+         "VesselName": "Ocean Diamond",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0008779433132260569,
+         "ExpectedHMFreqRate": 0.08914472417157053,
+         "MeanGrossClaims": 16230.853887283663
+      },
+      {
+         "VesselLLPNo": 67446,
+         "VesselName": "Ocean Adventurer",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0009265746169988328,
+         "ExpectedHMFreqRate": 0.09124441318104641,
+         "MeanGrossClaims": 29789.263117903913
+      },
+      {
+         "VesselLLPNo": 224742,
+         "VesselName": "Sea Spirit",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0007948934265501813,
+         "ExpectedHMFreqRate": 0.10426104992287115,
+         "MeanGrossClaims": 41924.5598968085
+      },
+      {
+         "VesselLLPNo": 12899804,
+         "VesselName": "Greg Mortimer",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0005613827310964632,
+         "ExpectedHMFreqRate": 0.12449018354542571,
+         "MeanGrossClaims": 144848.04875184243
+      },
+      {
+         "VesselLLPNo": 13303040,
+         "VesselName": "Ocean Victory",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0005486476199699328,
+         "ExpectedHMFreqRate": 0.12647022686067727,
+         "MeanGrossClaims": 134521.29424359824
+      },
+      {
+         "VesselLLPNo": 13303041,
+         "VesselName": "Ocean Explorer",
+         "VesselTypeCode": "PZZ",
+         "VesselGroup": "OTHER",
+         "ExpectedTLProbability": 0.0005505645318657212,
+         "ExpectedHMFreqRate": 0.03659311726187865,
+         "MeanGrossClaims": 61500.30194444165
+      },
+      {
+         "VesselLLPNo": 13798966,
+         "VesselName": "Sylvia Earle",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0005450674489745076,
+         "ExpectedHMFreqRate": 0.13247447090779121,
+         "MeanGrossClaims": 126630.19971205904
+      },
+      {
+         "VesselLLPNo": 13860148,
+         "VesselName": "Ocean Odyssey",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0005429045038912447,
+         "ExpectedHMFreqRate": 0.13235058281662404,
+         "MeanGrossClaims": 117349.42890606953
+      },
+      {
+         "VesselLLPNo": 13997446,
+         "VesselName": "Ocean Albatros",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0005379245858561606,
+         "ExpectedHMFreqRate": 0.13346987223331366,
+         "MeanGrossClaims": 120335.49917992356
+      },
+      {
+         "VesselLLPNo": 237222,
+         "VesselName": "Ocean Nova",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0008151249717010625,
+         "ExpectedHMFreqRate": 0.10599621623809706,
+         "MeanGrossClaims": 14164.022598408877
+      },
+      {
+         "VesselLLPNo": 6774,
+         "VesselName": "Freewinds",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0009083723539727485,
+         "ExpectedHMFreqRate": 0.08433040823755976,
+         "MeanGrossClaims": 130498.5447304948
+      },
+      {
+         "VesselLLPNo": 231150,
+         "VesselName": "Maragaritaville At Sea Paradise",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.0003392500839278398,
+         "ExpectedHMFreqRate": 0.0853311251980534,
+         "MeanGrossClaims": 92551.56063059268
+      },
+      {
+         "VesselLLPNo": 245722,
+         "VesselName": "Renaissance",
+         "VesselTypeCode": "MPR",
+         "VesselGroup": "CRUISE",
+         "ExpectedTLProbability": 0.00031804238330015116,
+         "ExpectedHMFreqRate": 0.08584404606012265,
+         "MeanGrossClaims": 94096.52636743379
+      }
+   ],
+   "SimulationAggregate": "D:\\prisync.talbotuw.global.local\\Logs\\MH\\MH_Fullmodel\\v1"
+}
